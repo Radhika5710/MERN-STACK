@@ -1,5 +1,5 @@
 # MERN-STACK
-# MERN-Stack
+
 Employee Management CLI(Node.js + MongoDB + Mongoose)
 This is a simple Command-Line Interface (CLI) application built with Node.js and MongoDB to manage employee records.
 The application allows users to insert, view, update, and delete employee data using terminal prompts.
